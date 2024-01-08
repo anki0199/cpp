@@ -1,0 +1,3 @@
+1 an m current 1000
+2 an m2 current 1000
+2 ad current 1000
